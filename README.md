@@ -117,7 +117,7 @@ df.to_sql("chicago_socioeconomic_data", con, if_exists='replace', index=False,me
     * sqlite:///socioeconomic.db
       Done.
 
-#### Retriving The Table Or Analysis
+#### Retriving The Table for Analysis
 ![table](https://github.com/Emperorian/Public-Health-Significance-And-The-Hardship-Index-/assets/101293550/8c9a67cd-5251-46a7-85ab-420cd949efd7)
 
 
