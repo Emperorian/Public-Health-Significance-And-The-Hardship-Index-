@@ -79,4 +79,9 @@ Now the data is now in the frame and to verify, you can use the select clause to
  * sqlite:///socioeconomic.db
 Done.
 
-![image](https://github.com/Emperorian/Public-Health-Significance-And-The-Hardship-Index-/assets/101293550/562aa86b-d093-415a-9dc0-5a3d876acd61)
+![table](https://github.com/Emperorian/Public-Health-Significance-And-The-Hardship-Index-/assets/101293550/8c9a67cd-5251-46a7-85ab-420cd949efd7)
+
+![image](https://github.com/Emperorian/Public-Health-Significance-And-The-Hardship-Index-/assets/101293550/40407f41-c0f2-4c7d-b02f-5a3dee0a02dd)
+
+
+
