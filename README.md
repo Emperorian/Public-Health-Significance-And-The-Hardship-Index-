@@ -1,4 +1,4 @@
-# **PUBLIC HEALTH SIGNIFICANCE AND THE HARDSHIP INDEX VS CROWDED HOUSING**
+# **Understanding Health Disparities in Socioeconomically Challenged Communities**
 
 ## TABLE OF CONTENTS
 
